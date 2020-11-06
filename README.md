@@ -12,11 +12,11 @@ I have been tasked with developing a travel application that assists users with 
 ## Results
 ### Vacation Search Function
 
-![https://github.com/agregorash/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG)]
+![](https://github.com/agregorash/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG)
 
 ### Vacation Itinerary Function
 
-![https://github.com/agregorash/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG)]
+![](https://github.com/agregorash/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
 
-![https://github.com/agregorash/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)]
+![](https://github.com/agregorash/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
